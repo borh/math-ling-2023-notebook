@@ -53,13 +53,6 @@ julia --project=. -e 'import Pluto; Pluto.run()'
  84.0 KiB ├─ stats.jl
   3.4 MiB ├─ stats.html
   4.0 KiB ├─ Project.toml
-  8.0 KiB ├─ table3.xlsx
-  8.0 KiB ├─ table4.xlsx
- 12.0 KiB ├─ table5.xlsx
- 12.0 KiB ├─ table6.xlsx
- 12.0 KiB ├─ table7.xlsx
-  8.0 KiB ├─ table8.xlsx
-  8.0 KiB ├─ table9.xlsx
  12.0 KiB ├─ 人科社BDB基本統計.xlsx
   4.0 KiB ├─ 学習者DB基本統計.xlsx
  42.9 MiB ├─ ジャンル別統計-2022-07-17.xlsx
@@ -125,13 +118,6 @@ This will open up a browser window from which you can execute and inspect indivi
  84.0 KiB ├─ stats.jl
   3.4 MiB ├─ stats.html
   4.0 KiB ├─ Project.toml
-  8.0 KiB ├─ table3.xlsx
-  8.0 KiB ├─ table4.xlsx
- 12.0 KiB ├─ table5.xlsx
- 12.0 KiB ├─ table6.xlsx
- 12.0 KiB ├─ table7.xlsx
-  8.0 KiB ├─ table8.xlsx
-  8.0 KiB ├─ table9.xlsx
  12.0 KiB ├─ 人科社BDB基本統計.xlsx
   4.0 KiB ├─ 学習者DB基本統計.xlsx
  42.9 MiB ├─ ジャンル別統計-2022-07-17.xlsx
