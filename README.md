@@ -4,9 +4,7 @@
 
 このリポジトリでは，以下の論文で使用した分析データとコードを共有しています。
 
-[ホドシチェク・ボル，阿辺川武，仁科喜久子，ベケシュ・アンドレイ（2023）「学術論文形成を支える接続表現と前後文末モダリティとの共起構造―談話分析の視点から―」『計量国語学』34巻1号, pp. 1-16](https://docs.google.com/spreadsheets/d/1picuzQ4dKICQhN9fHLiHFJszozMv4ui7K9aaUO9KiQQ/edit?gid=117008552#gid=117008552&range=F2)
-
-（後日[計量国語学](https://www.math-ling.org/)の[J-STAGEページ](https://www.jstage.jst.go.jp/browse/mathling/-char/ja)にて公開予定）
+[ホドシチェク・ボル，阿辺川武，仁科喜久子，ベケシュ・アンドレイ（2023）「学術論文形成を支える接続表現と前後文末モダリティとの共起構造―談話分析の視点から―」『計量国語学』34巻1号, pp. 1-16](https://www.jstage.jst.go.jp/article/mathling/34/1/34_1/_article/-char/ja)
 
 ## 要旨
 
@@ -76,9 +74,7 @@ julia --project=. -e 'import Pluto; Pluto.run()'
 
 This repository shares the analysis data and code used in the following paper:
 
-[Hodošček, B., Abekawa, T., Nishina, K., & Bekeš, A. (2023). Cooccurrence structures of conjunctive expressions and surrounding sentence-final modality forms supporting the composition of academic papers: A discourse-analytical perspective. _Mathematical Linguistics, 34_(1), 1–16.](https://docs.google.com/spreadsheets/d/1picuzQ4dKICQhN9fHLiHFJszozMv4ui7K9aaUO9KiQQ/edit?gid=117008552#gid=117008552&range=F3)
-
-(Note: The paper will be published on [Mathematical Linguistics'](https://www.math-ling.org/e-index.html) [J-STAGE page](https://www.jstage.jst.go.jp/browse/mathling/-char/en) at a later date.)
+[Hodošček, B., Abekawa, T., Nishina, K., & Bekeš, A. (2023). Cooccurrence structures of conjunctive expressions and surrounding sentence-final modality forms supporting the composition of academic papers: A discourse-analytical perspective. _Mathematical Linguistics, 34_(1), 1–16.](https://www.jstage.jst.go.jp/article/mathling/34/1/34_1/_article/-char/en)
 
 ## Abstract
 
